@@ -2,6 +2,8 @@
 
 ![Design preview for the Fylo landing page with two column layout challenge](./design/desktop-preview.jpg)
 
+[Link to demo project](https://destinyw.github.io/fylo-landing-page-with-two-column-layout-master/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
